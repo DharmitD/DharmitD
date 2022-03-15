@@ -4,7 +4,7 @@ My name is Dharmit, my pronouns are he/him.
 
 A little bit about myself:
 * Masters degree in Computer Science from Boston University
-* Currently working as a Software Quality Engineer at Red Hat.
+* Currently working as a Software Engineer at Red Hat.
 
 I am proficient and have experience in:
 
@@ -15,9 +15,6 @@ I am proficient and have experience in:
 * Data Analytics and Visualization
 * Databases
 * Artificial Intelligence and Machine Learning
-
-In my current role, I work on building an orchestration infrastructure using Ansible to test interoperability between a suite of products at Red Hat. I also write code in Groovy to build and maintain efficient CI/CD pipelines in Jenkins that are used to run this infrastructure, and in Python to build software
-applications/tools used as part of these CI workflows.
 
 I'm passionate about writing code to automate tasks. 
 
