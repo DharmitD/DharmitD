@@ -8,15 +8,18 @@ A little bit about myself:
 
 I am proficient and have experience in:
 
-* Languages such as Python, SQL, R, Java, and Bash Scripting
-* Automation and test methodologies, particularly with using the Selenium and Cucumber testing frameworks
-* Using tools such as Jenkins and Bamboo to build a robust CI/CD infrastructure.
+* Languages such as Python, SQL, R, Java, YAML, Groovy and Bash Scripting.
+* Building highly scalable and reliable backend configurations in Kubernetes and OpenShift environments.
+* Developing Ansible playbooks to automate deployment and configuration of complex systems.
+* Using tools such as Jenkins and Bamboo to build a robust CI/CD infrastructure. 
 * Cloud computing platforms such as AWS and OpenStack.
 * Data Analytics and Visualization
 * Databases
 * Artificial Intelligence and Machine Learning
 
 I'm passionate about writing code to automate tasks. 
+
+As a Software Engineer at Red Hat, I'm currently working on designing and developing efficient MLOps workflows in Kubernetes and OpenShift environments.
 
 I'm an Artificial Intelligence enthusiast, providing machines with the ability to learn, think and perform tasks accordingly is something that intrigues and interests me greatly. I'm looking to learn more and work in this domain.
 
